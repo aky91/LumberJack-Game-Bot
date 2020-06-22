@@ -29,6 +29,7 @@ After cutting the tree, how long should the bot wait
 
 ### Approach#1: Static wait time
 Experimentally found to be around 0.15 second with max score of 246
+Notw: This value may differ based on factors like framerate, cpu load, etc.
 
 ### Approach#2: Dynamic wait time
 Figuring out the amount of decay is challenging
