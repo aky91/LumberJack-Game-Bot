@@ -1,7 +1,7 @@
-# Lumberjack-Game-Bot
-Bot to play Lumberjack
+# LumberJack-Game-Bot
+Bot to play LumberJack
 
-Lumberjack is an online game played via telegram bot(for more details see https://telegram.games/telegram-games/lumberjack/)
+LumberJack is an online game played via telegram bot(for more details see https://telegram.games/telegram-games/lumberjack/)
 
 This bot playes the game by analysing the screenshots.
 
